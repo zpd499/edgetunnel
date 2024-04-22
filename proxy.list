@@ -1,2 +1,5 @@
-# 代理规则
+# 直连列表
+
+# MyList
 DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,wangzhe.com
